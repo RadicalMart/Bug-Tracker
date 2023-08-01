@@ -1,6 +1,6 @@
 ---
 name: Other
-about: Нет подхожящего продукта
+about: нет подходящего продукта
 title: "[?] "
 labels: ''
 assignees: ''
