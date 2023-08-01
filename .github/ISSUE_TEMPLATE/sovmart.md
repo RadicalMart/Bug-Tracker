@@ -1,6 +1,6 @@
 ---
 name: SovMart
-about: SovMart issue
+about: 'SovMart ошибки и предложения '
 title: "[SM] "
 labels: Sovmart
 assignees: ''

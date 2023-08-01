@@ -1,6 +1,6 @@
 ---
 name: RadicalMart Express
-about: RadicalMart Express issue
+about: 'RadicalMart Express ошибки и предложения '
 title: "[RME] "
 labels: RadicalMart Express
 assignees: ''
